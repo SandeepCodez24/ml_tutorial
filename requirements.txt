@@ -3,4 +3,6 @@ numpy
 seaborn
 scikit-learn
 matplotlib
--e . #this line trigger the setup.py file to install the package in editable mode
+xgboost
+catboost
+#-e .
